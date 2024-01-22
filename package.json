@@ -9,7 +9,8 @@
     "testing",
     "assertions",
     "promises",
-    "promises-aplus"
+    "promises-aplus",
+    "great"
   ],
   "version": "7.1.1",
   "author": "Domenic Denicola <d@domenic.me> (https://domenic.me)",
